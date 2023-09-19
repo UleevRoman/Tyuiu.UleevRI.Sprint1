@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{243F1F31-9F9B-46A2-8761-1DADA104F06F}</ProjectGuid>
+    <ProjectGuid>{9A60E293-A696-4610-BA10-8270F56A042E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Tyuiu.UleevRI.Sprint1.Task1.V15</RootNamespace>
-    <AssemblyName>Tyuiu.UleevRI.Sprint1.Task1.V15</AssemblyName>
+    <RootNamespace>Tyuiu.UleevRI.Sprint1.Task1.V14</RootNamespace>
+    <AssemblyName>Tyuiu.UleevRI.Sprint1.Task1.V14</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -50,8 +50,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Tyuiu.UleevRI.Sprint1.Task1.V15.Lib\Tyuiu.UleevRI.Sprint1.Task1.V14.Lib.csproj">
-      <Project>{c92391e0-cc57-4d02-b230-a752308a31d0}</Project>
+    <ProjectReference Include="..\Tyuiu.UleevRI.Sprint1.Task1.V14.Lib\Tyuiu.UleevRI.Sprint1.Task1.V14.Lib.csproj">
+      <Project>{8c1157ad-a181-4ec2-862a-5f80bf86d18d}</Project>
       <Name>Tyuiu.UleevRI.Sprint1.Task1.V14.Lib</Name>
     </ProjectReference>
   </ItemGroup>
